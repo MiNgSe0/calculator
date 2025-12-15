@@ -1,7 +1,8 @@
 #ifndef STACK_H
 #define STACK_H
 #include <stdbool.h> 
-#define boolean
+
+int min;
 
 typedef int Item;
 typedef struct stack {
