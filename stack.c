@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include "stack.h"
 #include <string.h>
-#define boolean
+
+int min = 0;
 
 Stack * create_stack(int initial_size)
 {
